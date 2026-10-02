@@ -2,6 +2,19 @@
 
 Offline KML maps of Japanese highway Service Areas (SA) and Parking Areas (PA), made for hitchhiking and road trips.
 
+
+## ------> 📥 Download <-------
+
+**[⬇️ Download the latest release](https://github.com/seagull-joy/japan-sa-pa-hitchhiking-map/releases/latest)**
+
+The latest release includes both KML versions:
+
+- 🇯🇵 Japanese names
+- 🇯🇵 Japanese + Romaji
+
+These files can be imported into **OsmAnd** for offline use.
+
+
 The locations are extracted from the "OpenStreetMap-derived Japan POI dataset" (https://github.com/gpsnmeajp/nearest_pois_jp/blob/main/japan_pois.py), specifically the "japan_pois.py" file from the ""nearest_pois_jp"" (https://github.com/gpsnmeajp/nearest_pois_jp) GitHub repository.
 
 📍 What's included
